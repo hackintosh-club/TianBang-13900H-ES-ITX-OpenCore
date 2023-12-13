@@ -141,7 +141,7 @@
                 <key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
                 <dict>
                     <key>device-id</key>
-                    <integer>66</integer>
+                    <data>0HoAAA==</data>
                 </dict>
             </dict>
             <key>Delete</key>
@@ -247,7 +247,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.7</string>
+                    <string>V1.8.8</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
