@@ -140,6 +140,8 @@
             <dict>
                 <key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
                 <dict>
+                    <key>Layout-id</key>
+                    <integer>66</integer>
                     <key>device-id</key>
                     <data>0HoAAA==</data>
                 </dict>
