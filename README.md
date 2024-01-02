@@ -28,8 +28,11 @@
 ### BIOS设置
 
 ```
-待补充
-
+禁用 CSM
+禁用 Fast Boot
+禁用 Secure Boot
+打开 4G以上解码
+打开 Re-Size BAR Support
 ```
 
 ### 注意事项
