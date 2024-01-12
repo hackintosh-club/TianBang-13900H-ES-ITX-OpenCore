@@ -716,7 +716,7 @@
                 <key>CustomSMBIOSGuid</key>
                 <true/>
                 <key>DisableIoMapper</key>
-                <false/>
+                <true/>
                 <key>DisableIoMapperMapping</key>
                 <false/>
                 <key>DisableLinkeditJettison</key>
@@ -976,13 +976,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>F5K353100QXK3F71F</string>
+                <string>F5K936130QXK3F71F</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>3841</integer>
                 <key>ROM</key>
-                <data>fuH0nPuU</data>
+                <data>jrB2YXau</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -990,9 +990,9 @@
                 <key>SystemProductName</key>
                 <string>MacPro7,1</string>
                 <key>SystemSerialNumber</key>
-                <string>F5KLXCZNP7QM</string>
+                <string>F5KZC0A7P7QM</string>
                 <key>SystemUUID</key>
-                <string>4524C724-3BC0-4F75-A1FA-93D542D23310</string>
+                <string>5B3C3E91-501A-433F-9A71-0F7887EBC3FD</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>

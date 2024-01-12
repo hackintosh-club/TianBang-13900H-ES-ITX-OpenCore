@@ -33,6 +33,8 @@
 禁用 Secure Boot
 打开 4G以上解码
 打开 Re-Size BAR Support
+打开 VT-D
+打开 开启4G以上 MMIO BIOS分配
 ```
 
 ### 注意事项
