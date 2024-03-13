@@ -2,7 +2,7 @@
 
 ![image](Screenshot/Motherbord.jpg)
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -43,6 +43,23 @@
  - 使用博通网卡安装Sonoma的用户请自行修改EFI、添加博通无线驱动并使用OCLP补丁
  - 使用英特尔无线网卡的用户请自行根据MacOS版本添加[英特尔无线](https://hackintosh.club/d/10000015)和[蓝牙驱动](https://hackintosh.club/d/10000017)
 
+### 参考内容
+
+[1.黑苹果安装过程演示](https://hackintosh.club/d/10000060)
+
+[2.英特尔无线网卡WiFi驱动](https://hackintosh.club/d/10000015)
+
+[3.英特尔无线网卡蓝牙驱动](https://hackintosh.club/d/10000017)
+
+[4.我的B站黑苹果教程](https://space.bilibili.com/244390800/video)
+
+[6.黑果之家](https://hackintosh.club/)
+
+### 联系我们
+
+QQ Group: 23304408
+
+![image](Screenshot/QRCode.png)
 
 ### 常用工具
 
@@ -51,10 +68,3 @@
 - [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA `OCC`.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) Build your own MacOS image.
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
-
-
-### 联系我们
-
-QQ Group: 23304408
-
-![image](Screenshot/QRCode.png)
