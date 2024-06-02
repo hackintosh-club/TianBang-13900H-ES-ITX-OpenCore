@@ -2,7 +2,7 @@
 
 ![image](Screenshot/Motherbord.jpg)
 
-[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -31,15 +31,15 @@
 禁用 CSM
 禁用 Fast Boot
 禁用 Secure Boot
+禁用 VT-D
 打开 4G以上解码
 打开 Re-Size BAR Support
-打开 VT-D
 打开 开启4G以上 MMIO BIOS分配
 ```
 
 ### 注意事项
 
- - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+ - 安装成功后必须使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
  - 使用博通网卡安装Sonoma的用户请自行修改EFI、添加博通无线驱动并使用OCLP补丁
  - 使用英特尔无线网卡的用户请自行根据MacOS版本添加[英特尔无线](https://hackintosh.club/d/10000015)和[蓝牙驱动](https://hackintosh.club/d/10000017)
 
