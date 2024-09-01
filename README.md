@@ -2,7 +2,7 @@
 
 ![image](Screenshot/Motherbord.jpg)
 
-[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.1](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -31,7 +31,7 @@
 禁用 CSM
 禁用 Fast Boot
 禁用 Secure Boot
-打开 VT-D
+打开 VT-D （如果安装黑苹果时遇到灰屏或者黑屏问题请关闭此选项）
 打开 4G以上解码
 打开 Re-Size BAR Support
 打开 开启4G以上 MMIO BIOS分配

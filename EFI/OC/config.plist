@@ -901,6 +901,8 @@
                     <integer>1</integer>
                     <key>revcpuname</key>
                     <string>13th Intel Core i9-13900H</string>
+                    <key>revpatch</key>
+                    <string>sbvmm,cpuname</string>
                 </dict>
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
                 <dict>
@@ -978,13 +980,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>F5K028401GUK3F7A8</string>
+                <string>F5K937108GUK3F7AD</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>3841</integer>
                 <key>ROM</key>
-                <data>eFzFckiU</data>
+                <data>64A9jdA5</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -992,9 +994,9 @@
                 <key>SystemProductName</key>
                 <string>MacPro7,1</string>
                 <key>SystemSerialNumber</key>
-                <string>F5KD203WP7QM</string>
+                <string>F5KZD09UP7QM</string>
                 <key>SystemUUID</key>
-                <string>E81EFFC2-3052-43DF-9DAD-F4A3045C8AF9</string>
+                <string>66904493-91C3-4954-B6D1-4F45F4F09BA7</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
